@@ -27,3 +27,6 @@
 1. Клонируйте репозиторий:
    ```bash
    git clone https://github.com/nikim2312/Java-.git
+2. Используйте maven для сборки проекта.
+
+3. Запустите файл Main.java(Run 'Main.main()')
